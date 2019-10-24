@@ -1,5 +1,5 @@
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
-$APPLICATION->SetTitle("Тестовый раздел");?>
+$APPLICATION->SetTitle("Страница вызова компонента виджета погоды в Москве");?>
 
 <?$APPLICATION->IncludeComponent(
 	"myComponents:weather.moscow",
