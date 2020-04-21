@@ -10,7 +10,7 @@ $APPLICATION->SetTitle("Страница вызова компонента ви�
 		"CACHE_TYPE" => "Y",
 		"COMPOSITE_FRAME_MODE" => "A",
 		"COMPOSITE_FRAME_TYPE" => "AUTO"
-	)
+	) 
 );?>
 
 <?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
